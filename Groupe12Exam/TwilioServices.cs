@@ -13,14 +13,12 @@ namespace Groupe12Exam
 {
     internal class TwilioServices
     {
-        public string accountSid = ConfigurationManager.AppSettings["Twilio:AccountSid"];
-        public string authToken = ConfigurationManager.AppSettings["Twilio:AuthToken"];
-        public string verifyServiceSid = ConfigurationManager.AppSettings["Twilio:VerifyServiceSid"];
+        //declarer ici les coordonnees pour se connecter au compte twilio 
 
         public TwilioServices()
         {
             // Initialiser la connexion à Twilio avec votre SID et AuthToken
-            TwilioClient.Init(accountSid, authToken);
+            //TwilioClient.Init(accountSid, authToken);
         }
 
         public void SendSms(string phoneNumber, string message)
