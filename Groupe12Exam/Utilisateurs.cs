@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Groupe12Exam
 {
-    internal class Utilisateurs
+    public class Utilisateurs
     {
         public int Id { get; set; }
         public string Role { get; set; }

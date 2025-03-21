@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -16,23 +17,35 @@ namespace Groupe12Exam
         {
             InitializeComponent();
         }
+      
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Admin users = new Admin();
-            users.Show();
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            DE users = new DE();
-            users.Show();
+            
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Agent users = new Agent();
-            users.Show();
+           
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+       
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            ConnectForm connectForm = new ConnectForm();
+            connectForm.Show();
+            connectForm.MdiParent = this;
+            
         }
     }
 }

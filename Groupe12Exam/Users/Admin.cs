@@ -4,9 +4,11 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Groupe12Exam.Rapports;
 using p4_gf.admin.classes;
 
 namespace Groupe12Exam
@@ -40,8 +42,25 @@ namespace Groupe12Exam
         {
 
         }
-            // Utilisateurs
+        // Utilisateurs
         // Ajout d'Utilisateur
+        public  string HashPassword(string password)
+        {
+            using (SHA256 sha256Hash = SHA256.Create())
+            {
+                // Convertir le mot de passe en tableau de bytes
+                byte[] bytes = sha256Hash.ComputeHash(Encoding.UTF8.GetBytes(password));
+
+                // Convertir les bytes en chaîne hexadécimale
+                StringBuilder builder = new StringBuilder();
+                foreach (byte b in bytes)
+                {
+                    builder.Append(b.ToString("x2"));  // Format hexadécimal
+                }
+
+                return builder.ToString();
+            }
+        }
         private void bt_add_user_Click(object sender, EventArgs e)
         {
             using (var db = new DbScolaire())
@@ -49,7 +68,7 @@ namespace Groupe12Exam
                 var user = new Utilisateurs
                 {
                     NomUtilisateur = tb_nom_user.Text,
-                    MotDePasse = tb_pass_user.Text,
+                    MotDePasse = HashPassword(tb_pass_user.Text),
                     Role = cb_role_user.SelectedItem.ToString(),
                     Telephone = tb_tel_user.Text,
                 };
@@ -59,6 +78,7 @@ namespace Groupe12Exam
                 ChargerUtilisateur();
                 clearUtilisateur();
             }
+            refeshtel();
         }
         // Charger utilisateur
         private void ChargerUtilisateur()
@@ -128,6 +148,7 @@ namespace Groupe12Exam
                     MessageBox.Show("Utilisateur non trouvé.");
                 }
             }
+            refeshtel();
         }
            
         private void bt_delete_user_Click(object sender, EventArgs e)
@@ -168,6 +189,7 @@ namespace Groupe12Exam
             {
                 MessageBox.Show("Veuillez sélectionner un utilisateur à supprimer.");
             }
+            refeshtel();
         }
 
             // Classes
@@ -1217,6 +1239,42 @@ namespace Groupe12Exam
                 // Mettre à jour l'interface utilisateur avec les résultats de la recherche
                 dgv_etud.DataSource = result;
             }
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+            refeshtel();
+        }
+        public void refeshtel ()
+        {
+            tb_tel_user.Text = "+221";
+        }
+        private void tabPage2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            ReleveEtudiantForm releveEtudiantForm = new ReleveEtudiantForm();
+            releveEtudiantForm.Show();
+            
+        }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            ListeClasseForm listeClasseForm = new ListeClasseForm();
+            listeClasseForm.Show();
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void Admin_Load(object sender, EventArgs e)
+        {
+            refeshtel();
         }
     }
 }

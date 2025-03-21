@@ -1,150 +1,194 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|c:\\users\\marti\\groupe-12\\groupe12exam\\professeursclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:professeursclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\twilioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:twilioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\users\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\users\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\users\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\users\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\users\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\users\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\users\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassocprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassocprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassocprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassocprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassocmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassocmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassocmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassocmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassocetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassocetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassocetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassocetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassoccours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassoccours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassoccours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassoccours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\migrations\\202503090137052_goodmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:migrations\\202503090137052_goodmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\utilisateurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:utilisateurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|c:\\users\\lenovo\\groupe-12\\groupe12exam\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\dbscolaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:dbscolaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\users\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\professeursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:professeursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\professeurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:professeurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\connectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:connectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\connectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:connectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\users\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\otpcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:otpcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\classescours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:classescours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\matieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:matieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\coursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\rapports\\filtreetudiantsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:rapports\\filtreetudiantsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\rapports\\filtreetudiantsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:rapports\\filtreetudiantsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\rapports\\releveetudiantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:rapports\\releveetudiantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\professeursclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:professeursclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\rapports\\listeclasseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:rapports\\listeclasseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\rapports\\listeclasseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:rapports\\listeclasseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\rapports\\releveetudiantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:rapports\\releveetudiantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\coursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:coursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\classescours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:classescours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\matieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:matieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\utilisateurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:utilisateurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\professeursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:professeursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\users\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\users\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\users\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\users\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\users\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:users\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassocprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassocprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassocprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassocprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassocmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassocmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassocmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassocmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassocetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassocetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassocetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassocetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassoccours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassoccours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\associations\\classes\\classeassoccours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:associations\\classes\\classeassoccours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\migrations\\202503090137052_goodmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:migrations\\202503090137052_goodmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\dbscolaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:dbscolaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\professeurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:professeurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\otpcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:otpcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55158FD4-F94B-4F85-9F73-01E008D1EE3D}|Groupe12Exam.csproj|solutionrelative:cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -154,417 +198,155 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "ProfesseursClasses.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\ProfesseursClasses.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\ProfesseursClasses.cs",
               "RelativeDocumentMoniker": "ProfesseursClasses.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\ProfesseursClasses.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\ProfesseursClasses.cs",
               "RelativeToolTip": "ProfesseursClasses.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T01:50:16.528Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-07T19:32:09.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TwilioServices.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\TwilioServices.cs",
+              "RelativeDocumentMoniker": "TwilioServices.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\TwilioServices.cs",
+              "RelativeToolTip": "TwilioServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:59:41.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConnectForm.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\ConnectForm.cs",
+              "RelativeDocumentMoniker": "ConnectForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\ConnectForm.cs",
+              "RelativeToolTip": "ConnectForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAlwEYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:59:21.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\Admin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Users\\Admin.cs",
               "RelativeDocumentMoniker": "Users\\Admin.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\Admin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Users\\Admin.cs",
               "RelativeToolTip": "Users\\Admin.cs",
-              "ViewState": "AgIAABQCAAAAAAAAAAAiwCcCAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAFAAAAAAAAAAAAAFEEAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T02:31:25.545Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Agent.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\Agent.cs",
-              "RelativeDocumentMoniker": "Users\\Agent.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\Agent.cs",
-              "RelativeToolTip": "Users\\Agent.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBEAAAAkAAAAAAAAAA==",
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T13:07:38.37Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T03:07:18.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwCEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T02:25:49.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Agent.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\Agent.cs",
-              "RelativeDocumentMoniker": "Users\\Agent.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\Agent.cs [Design]",
-              "RelativeToolTip": "Users\\Agent.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T12:51:59.589Z"
+              "WhenOpened": "2025-03-20T01:28:43.189Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ConnectForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\ConnectForm.cs",
+              "RelativeDocumentMoniker": "ConnectForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\ConnectForm.cs [Design]",
+              "RelativeToolTip": "ConnectForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:58:04.691Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIAzwDoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:32:14.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Admin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\Admin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Users\\Admin.cs",
               "RelativeDocumentMoniker": "Users\\Admin.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\Admin.cs [Design]",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Users\\Admin.cs [Design]",
               "RelativeToolTip": "Users\\Admin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T02:22:26.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DE.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\DE.cs",
-              "RelativeDocumentMoniker": "Users\\DE.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\DE.cs",
-              "RelativeToolTip": "Users\\DE.cs",
-              "ViewState": "AgIAACUBAAAAAAAAAAAzwDMBAAAMAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAawC0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:50:06.774Z"
+              "WhenOpened": "2025-03-09T02:25:49.926Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "DE.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\DE.cs",
-              "RelativeDocumentMoniker": "Users\\DE.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\DE.cs [Design]",
-              "RelativeToolTip": "Users\\DE.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:46:40.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Admin.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\Admin.Designer.cs",
-              "RelativeDocumentMoniker": "Users\\Admin.Designer.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\Admin.Designer.cs",
-              "RelativeToolTip": "Users\\Admin.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T18:53:17.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClasseAssocProf.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocProf.cs",
-              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocProf.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocProf.cs",
-              "RelativeToolTip": "Associations\\classes\\ClasseAssocProf.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T18:40:48.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ClasseAssocProf.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocProf.cs",
-              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocProf.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocProf.cs [Design]",
-              "RelativeToolTip": "Associations\\classes\\ClasseAssocProf.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T18:40:53.782Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClasseAssocMatiere.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocMatiere.cs",
-              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocMatiere.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocMatiere.cs",
-              "RelativeToolTip": "Associations\\classes\\ClasseAssocMatiere.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T18:43:57.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ClasseAssocEtudiant.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocEtudiant.cs",
-              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocEtudiant.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocEtudiant.cs",
-              "RelativeToolTip": "Associations\\classes\\ClasseAssocEtudiant.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwCwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T18:40:26.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ClasseAssocMatiere.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocMatiere.cs",
-              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocMatiere.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocMatiere.cs [Design]",
-              "RelativeToolTip": "Associations\\classes\\ClasseAssocMatiere.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T18:40:44.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ClasseAssocEtudiant.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocEtudiant.cs",
-              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocEtudiant.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocEtudiant.cs [Design]",
-              "RelativeToolTip": "Associations\\classes\\ClasseAssocEtudiant.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T18:40:34.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ClasseAssocCours.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocCours.cs",
-              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocCours.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocCours.cs",
-              "RelativeToolTip": "Associations\\classes\\ClasseAssocCours.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T18:41:02.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ClasseAssocCours.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocCours.cs",
-              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocCours.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocCours.cs [Design]",
-              "RelativeToolTip": "Associations\\classes\\ClasseAssocCours.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T18:40:21.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T02:41:54.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Etudiant.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Etudiant.cs",
-              "RelativeDocumentMoniker": "Etudiant.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Etudiant.cs",
-              "RelativeToolTip": "Etudiant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T01:44:22.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "Migrations\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T01:35:24.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Classes.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Classes.cs",
-              "RelativeDocumentMoniker": "Classes.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Classes.cs",
-              "RelativeToolTip": "Classes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T02:07:55.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "202503090137052_GOODMIGRATION.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Migrations\\202503090137052_GOODMIGRATION.cs",
-              "RelativeDocumentMoniker": "Migrations\\202503090137052_GOODMIGRATION.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Migrations\\202503090137052_GOODMIGRATION.cs",
-              "RelativeToolTip": "Migrations\\202503090137052_GOODMIGRATION.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T01:37:24.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DbScolaire.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\DbScolaire.cs",
-              "RelativeDocumentMoniker": "DbScolaire.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\DbScolaire.cs",
-              "RelativeToolTip": "DbScolaire.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T22:03:35.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-07T19:32:09.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Utilisateurs.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Utilisateurs.cs",
-              "RelativeDocumentMoniker": "Utilisateurs.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Utilisateurs.cs",
-              "RelativeToolTip": "Utilisateurs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T01:47:16.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ProfesseursMatieres.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\ProfesseursMatieres.cs",
-              "RelativeDocumentMoniker": "ProfesseursMatieres.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\ProfesseursMatieres.cs",
-              "RelativeToolTip": "ProfesseursMatieres.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T01:49:50.437Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Notes.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Notes.cs",
-              "RelativeDocumentMoniker": "Notes.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Notes.cs",
-              "RelativeToolTip": "Notes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T01:46:46.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Professeurs.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Professeurs.cs",
-              "RelativeDocumentMoniker": "Professeurs.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Professeurs.cs",
-              "RelativeToolTip": "Professeurs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T01:44:54.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:25:41.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Matieres.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Matieres.cs",
-              "RelativeDocumentMoniker": "Matieres.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Matieres.cs",
-              "RelativeToolTip": "Matieres.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T01:46:05.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\packages.config",
-              "RelativeDocumentMoniker": "packages.config",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\packages.config",
-              "RelativeToolTip": "packages.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-07T20:42:06.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CoursMatieres.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\CoursMatieres.cs",
-              "RelativeDocumentMoniker": "CoursMatieres.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\CoursMatieres.cs",
-              "RelativeToolTip": "CoursMatieres.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T01:48:56.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Cours.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Cours.cs",
-              "RelativeDocumentMoniker": "Cours.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Cours.cs",
-              "RelativeToolTip": "Cours.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T01:45:40.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
               "Title": "ClassesCours.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\ClassesCours.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\ClassesCours.cs",
               "RelativeDocumentMoniker": "ClassesCours.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\ClassesCours.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\ClassesCours.cs",
               "RelativeToolTip": "ClassesCours.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -572,11 +354,421 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T03:07:18.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Etudiant.cs",
+              "RelativeDocumentMoniker": "Etudiant.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Etudiant.cs",
+              "RelativeToolTip": "Etudiant.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:44:22.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FiltreEtudiantsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Rapports\\FiltreEtudiantsForm.cs",
+              "RelativeDocumentMoniker": "Rapports\\FiltreEtudiantsForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Rapports\\FiltreEtudiantsForm.cs [Design]",
+              "RelativeToolTip": "Rapports\\FiltreEtudiantsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:59:41.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FiltreEtudiantsForm.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Rapports\\FiltreEtudiantsForm.cs",
+              "RelativeDocumentMoniker": "Rapports\\FiltreEtudiantsForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Rapports\\FiltreEtudiantsForm.cs",
+              "RelativeToolTip": "Rapports\\FiltreEtudiantsForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:59:42.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReleveEtudiantForm.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Rapports\\ReleveEtudiantForm.cs",
+              "RelativeDocumentMoniker": "Rapports\\ReleveEtudiantForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Rapports\\ReleveEtudiantForm.cs",
+              "RelativeToolTip": "Rapports\\ReleveEtudiantForm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwDwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:05:49.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListeClasseForm.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Rapports\\ListeClasseForm.cs",
+              "RelativeDocumentMoniker": "Rapports\\ListeClasseForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Rapports\\ListeClasseForm.cs",
+              "RelativeToolTip": "Rapports\\ListeClasseForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAlwCgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:13:04.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ListeClasseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Rapports\\ListeClasseForm.cs",
+              "RelativeDocumentMoniker": "Rapports\\ListeClasseForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Rapports\\ListeClasseForm.cs [Design]",
+              "RelativeToolTip": "Rapports\\ListeClasseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:11:03.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Classes.cs",
+              "RelativeDocumentMoniker": "Classes.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Classes.cs",
+              "RelativeToolTip": "Classes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:07:55.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReleveEtudiantForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Rapports\\ReleveEtudiantForm.cs",
+              "RelativeDocumentMoniker": "Rapports\\ReleveEtudiantForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Rapports\\ReleveEtudiantForm.cs [Design]",
+              "RelativeToolTip": "Rapports\\ReleveEtudiantForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:47:38.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Matieres.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Matieres.cs",
+              "RelativeDocumentMoniker": "Matieres.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Matieres.cs",
+              "RelativeToolTip": "Matieres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:46:05.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Notes.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Notes.cs",
+              "RelativeDocumentMoniker": "Notes.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Notes.cs",
+              "RelativeToolTip": "Notes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:46:46.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CoursMatieres.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\CoursMatieres.cs",
+              "RelativeDocumentMoniker": "CoursMatieres.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\CoursMatieres.cs",
+              "RelativeToolTip": "CoursMatieres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:48:56.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Utilisateurs.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Utilisateurs.cs",
+              "RelativeDocumentMoniker": "Utilisateurs.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Utilisateurs.cs",
+              "RelativeToolTip": "Utilisateurs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:47:16.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProfesseursMatieres.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\ProfesseursMatieres.cs",
+              "RelativeDocumentMoniker": "ProfesseursMatieres.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\ProfesseursMatieres.cs",
+              "RelativeToolTip": "ProfesseursMatieres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:49:50.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Users\\Agent.cs",
+              "RelativeDocumentMoniker": "Users\\Agent.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Users\\Agent.cs",
+              "RelativeToolTip": "Users\\Agent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:07:38.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Agent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Users\\Agent.cs",
+              "RelativeDocumentMoniker": "Users\\Agent.cs",
+              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\Agent.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\marti\\Groupe-12\\Groupe12Exam\\Users\\Agent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:51:59.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DE.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Users\\DE.cs",
+              "RelativeDocumentMoniker": "Users\\DE.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Users\\DE.cs",
+              "RelativeToolTip": "Users\\DE.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAAzwDMBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:50:06.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DE.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Users\\DE.cs",
+              "RelativeDocumentMoniker": "Users\\DE.cs",
+              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Users\\DE.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\marti\\Groupe-12\\Groupe12Exam\\Users\\DE.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:46:40.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Admin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Users\\Admin.Designer.cs",
+              "RelativeDocumentMoniker": "Users\\Admin.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Users\\Admin.Designer.cs",
+              "RelativeToolTip": "Users\\Admin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:53:17.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClasseAssocProf.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocProf.cs",
+              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocProf.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocProf.cs",
+              "RelativeToolTip": "Associations\\classes\\ClasseAssocProf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:40:48.212Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 31,
+              "Title": "ClasseAssocProf.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocProf.cs",
+              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocProf.cs",
+              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocProf.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocProf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:40:53.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClasseAssocMatiere.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocMatiere.cs",
+              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocMatiere.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocMatiere.cs",
+              "RelativeToolTip": "Associations\\classes\\ClasseAssocMatiere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:43:57.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ClasseAssocEtudiant.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocEtudiant.cs",
+              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocEtudiant.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocEtudiant.cs",
+              "RelativeToolTip": "Associations\\classes\\ClasseAssocEtudiant.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:40:26.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ClasseAssocMatiere.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocMatiere.cs",
+              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocMatiere.cs",
+              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocMatiere.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocMatiere.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:40:44.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ClasseAssocEtudiant.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocEtudiant.cs",
+              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocEtudiant.cs",
+              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocEtudiant.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocEtudiant.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:40:34.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClasseAssocCours.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocCours.cs",
+              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocCours.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocCours.cs",
+              "RelativeToolTip": "Associations\\classes\\ClasseAssocCours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:41:02.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ClasseAssocCours.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocCours.cs",
+              "RelativeDocumentMoniker": "Associations\\classes\\ClasseAssocCours.cs",
+              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocCours.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\marti\\Groupe-12\\Groupe12Exam\\Associations\\classes\\ClasseAssocCours.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:40:21.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T02:41:54.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T01:35:24.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "202503090137052_GOODMIGRATION.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Migrations\\202503090137052_GOODMIGRATION.cs",
+              "RelativeDocumentMoniker": "Migrations\\202503090137052_GOODMIGRATION.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Migrations\\202503090137052_GOODMIGRATION.cs",
+              "RelativeToolTip": "Migrations\\202503090137052_GOODMIGRATION.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T01:37:24.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DbScolaire.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\DbScolaire.cs",
+              "RelativeDocumentMoniker": "DbScolaire.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\DbScolaire.cs",
+              "RelativeToolTip": "DbScolaire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T22:03:35.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Professeurs.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Professeurs.cs",
+              "RelativeDocumentMoniker": "Professeurs.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Professeurs.cs",
+              "RelativeToolTip": "Professeurs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:44:54.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:25:41.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-07T20:42:06.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Cours.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Cours.cs",
+              "RelativeDocumentMoniker": "Cours.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\Cours.cs",
+              "RelativeToolTip": "Cours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:45:40.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
               "Title": "OTPCodes.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\OTPCodes.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\OTPCodes.cs",
               "RelativeDocumentMoniker": "OTPCodes.cs",
-              "ToolTip": "C:\\Users\\marti\\Groupe-12\\Groupe12Exam\\OTPCodes.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Groupe-12\\Groupe12Exam\\OTPCodes.cs",
               "RelativeToolTip": "OTPCodes.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
